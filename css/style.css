@@ -1,0 +1,44 @@
+.student {
+    text-align: center;
+    background-color: rgb(241, 208, 197);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.align {
+    margin: auto 0;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+div {
+    cursor: default;
+}
+
+
+.padleft {
+    padding-left: 40px;
+}
+
+.padright {
+    padding-right: 40px;
+}
+
+
+.dispflex {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    line-height: 25px;
+}
